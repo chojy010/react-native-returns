@@ -1,0 +1,22 @@
+{
+  "name": "rn-returns",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "android": "react-native run-android",
+    "ios": "react-native run-ios --simulator='iPhone 12 Pro Max'",
+    "web": "expo start --web",
+    "start": "react-native start --reset-cache"
+  },
+  "dependencies": {
+    "expo": "~47.0.12",
+    "expo-splash-screen": "~0.17.5",
+    "expo-status-bar": "~1.4.2",
+    "react": "18.1.0",
+    "react-native": "0.70.5"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.9"
+  },
+  "private": true
+}

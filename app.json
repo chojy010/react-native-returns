@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "rn-returns",
+    "slug": "rn-returns",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "rn-returns"
+}
